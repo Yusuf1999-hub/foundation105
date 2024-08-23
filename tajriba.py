@@ -1,7 +1,7 @@
 from datetime import date
 
 class Dori:
-    def __init__(self, nomi, kompaniya, narxi, muddati, tasir):
+    def __init__(self, nomi, kompaniya, narxi, muddati, tasir, k):
         self.d_name = nomi
         self.d_kompaniya = kompaniya
         self.d_tan_narx = narxi
